@@ -1,0 +1,79 @@
+header {
+    background-image: url("bg.jpg");
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+
+header h1 {
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 50px;
+    line-height: 0.5;
+    font-family: "Special Elite" ;
+
+}
+
+.backgound {
+    background-image: url("bg.jpg");
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+}
+
+.sign.up {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+footer {
+    background-color: #2D4823;
+    text-align: center;
+    color: #D3D3D3;
+    padding: 40px;
+}
+
+.email {
+    color: #D3D3D3;
+}
+
+.circle1 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #4F6A13;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    left: 250px; 
+    bottom:  80px;
+}
+
+.circle2 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #4F6A13;
+    color: white;
+    text-align: center;
+    font-size: 12px; 
+   
+    
+}
+
+.circle3 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #4F6A13;
+    color: white;
+    text-align: center;
+    font-size: 12px; 
+}
